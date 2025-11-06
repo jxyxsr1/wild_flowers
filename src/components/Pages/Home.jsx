@@ -19,7 +19,7 @@ import aariWork from "../../assets/aariWork.jpg";
 import everydayMakeup from "../../assets/everydayMakeup.jpg";
 import makeoverSessions from "../../assets/makeoverSessions.jpg";
 import hairstylistImage from "../../assets/hairstylist.jpg";
-import aariWorkerImage from "../../assets/aariWorker.jpg";
+import aariWorkerImage from "../../assets/aariworker.jpg";
 import kidsFashionImage from "../../assets/kidsFashion.jpg";
 import makeupArtist2Image from "../../assets/mmmakeupartist.jpg";
 import beauticianImage from "../../assets/makeupartist.jpg";
