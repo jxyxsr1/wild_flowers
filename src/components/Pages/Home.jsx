@@ -17,7 +17,7 @@ import bridalMakeup from "../../assets/bridalmakeup.jpg";
 import kidsCostume from "../../assets/kidscostume.jpg";
 import aariWork from "../../assets/aariwork.jpg";
 import everydayMakeup from "../../assets/everydaymakeup.jpg";
-import makeoverSessions from "../../assets/makeoverSessions.jpg";
+import makeoverSessions from "../../assets/makeoversessions.jpg";
 import hairstylistImage from "../../assets/hairstylist.jpg";
 import aariWorkerImage from "../../assets/aariworker.jpg";
 import kidsFashionImage from "../../assets/kidsFashion.jpg";
