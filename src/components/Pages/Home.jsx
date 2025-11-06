@@ -20,7 +20,7 @@ import everydayMakeup from "../../assets/everydaymakeup.jpg";
 import makeoverSessions from "../../assets/makeoversessions.jpg";
 import hairstylistImage from "../../assets/hairstylist.jpg";
 import aariWorkerImage from "../../assets/aariworker.jpg";
-import kidsFashionImage from "../../assets/kidsFashion.jpg";
+import kidsFashionImage from "../../assets/kidsfashion.jpg";
 import makeupArtist2Image from "../../assets/mmmakeupartist.jpg";
 import beauticianImage from "../../assets/makeupartist.jpg";
 import nailArtImage from "../../assets/nailart.jpg";
