@@ -14,7 +14,7 @@ import bgImage from "../../assets/wildflower.png";
 import whoweare from "../../assets/Whoweare.jpg";
 import salon from "../../assets/salon.jpg";
 import bridalMakeup from "../../assets/bridalmakeup.jpg";
-import kidsCostume from "../../assets/kidscostume.jpg";
+import kidsCostume from "../../assets/Kidscostume.jpg";
 import aariWork from "../../assets/aariwork.jpg";
 import everydayMakeup from "../../assets/everydaymakeup.jpg";
 import makeoverSessions from "../../assets/makeoversessions.jpg";
