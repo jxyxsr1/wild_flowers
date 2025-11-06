@@ -11,7 +11,7 @@ import Newsletter from "../newsletter";
 import Hero from "./Hero";
 import Footer from "../Footer/Footer";
 import bgImage from "../../assets/wildflower.png";
-import whoweare from "../../assets/whoweare.jpg";
+import whoweare from "../../assets/Whoweare.jpg";
 import salon from "../../assets/salon.jpg";
 import bridalMakeup from "../../assets/bridalMakeup.jpg";
 import kidsCostume from "../../assets/kidsCostume.jpg";
