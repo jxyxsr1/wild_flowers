@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import ourTeamBanner from "../../assets/OUR TEAM.jpg";
 import staffImage from "../../assets/staff.jpg";
 import hairstylistImage from "../../assets/hairstylist.jpg";
-import aariWorkerImage from "../../assets/aariWorker.jpg";
+import aariWorkerImage from "../../assets/aariworker.jpg";
 import kidsFashionImage from "../../assets/kidsFashion.jpg";
 import makeupArtist2Image from "../../assets/mmmakeupartist.jpg";
 import nailArtImage from "../../assets/nailart.jpg";
