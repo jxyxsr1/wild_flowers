@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Playwrite+CA+Guides&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lavishly+Yours&family=Playwrite+CA+Guides&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Darumadrop+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  .input {
+    @apply border border-white w-full rounded-full py-2 outline-none px-4 focus:ring-2 focus:border-transparent focus:ring-white/80 bg-transparent text-white text-shadow;
+  }
+
+  .input-label {
+    @apply text-white block pb-1 text-shadow;
+  }
+}
+
+@layer components {
+  .primary-btn {
+    @apply bg-gradient-to-r from-lime-500 to-lime-600 text-white py-2 px-5 rounded-full mt-7 block w-full hover:bg-gradient-to-r hover:from-lime-600 hover:to-lime-500 hover:scale-105 transition-all duration-300 shadow-custom-inset;
+  }
+}
+
+@layer utilities {
+  .text-shadow {
+    text-shadow: 2px 2px 2px #1128015b;
+  }
+}
+@keyframes bounceInFromTop {
+  0% {
+    opacity: 0;
+    transform: translateY(-100px);
+  }
+  60% {
+    opacity: 1;
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+/* Style for the popup box */
+.popup {
+  position: absolute;
+  top: 100%; /* Position it directly below the Services link */
+  margin-top: 3;
+  background-color: #e5a2c2; /* Tailwind's pink-500 */
+  color: white;
+  padding: 12px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 10;
+  min-width: 150px;
+  display: block;
+  margin-top: 10px;
+}
+
+/* Remove the default list style */
+.popup ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Style for each item inside the popup */
+.popup li {
+  padding: 8px 0;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Hover effect for list items */
+.popup li:hover {
+  background-color: #d8b7c5; /* Tailwind's pink-600 */
+}
