@@ -13,7 +13,7 @@ import Footer from "../Footer/Footer";
 import bgImage from "../../assets/wildflower.png";
 import whoweare from "../../assets/Whoweare.jpg";
 import salon from "../../assets/salon.jpg";
-import bridalMakeup from "../../assets/bridalMakeup.jpg";
+import bridalMakeup from "../../assets/bridalmakeup.jpg";
 import kidsCostume from "../../assets/kidsCostume.jpg";
 import aariWork from "../../assets/aariWork.jpg";
 import everydayMakeup from "../../assets/everydayMakeup.jpg";
